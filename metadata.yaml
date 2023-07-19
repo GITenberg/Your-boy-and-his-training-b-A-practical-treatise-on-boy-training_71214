@@ -1,0 +1,26 @@
+_repo: Your-boy-and-his-training-b-A-practical-treatise-on-boy-training_71214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Puller, Edwin
+    gutenberg_agent_id: '56121'
+    url: http://www.gutenberg.org/2009/agents/56121
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71214'
+language: en
+pgterms:marc905: 20171108174420puller
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Donald Cummings, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Your boy and his training : $b A practical treatise on boy-training'
+url: http://www.gutenberg.org/ebooks/71214
