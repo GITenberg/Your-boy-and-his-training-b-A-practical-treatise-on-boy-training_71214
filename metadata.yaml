@@ -1,11 +1,16 @@
 _repo: Your-boy-and-his-training-b-A-practical-treatise-on-boy-training_71214
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71214-h/images/cover.jpg
 creator:
   author:
     agent_name: Puller, Edwin
     gutenberg_agent_id: '56121'
     url: http://www.gutenberg.org/2009/agents/56121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71214#Your-boy-and-his-training-b-A-practical-treatise-on-boy-training
 gutenberg_issued: '2023-07-18'
 identifiers:
   gutenberg: '71214'
